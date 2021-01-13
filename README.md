@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- ![](/home/nikola/Downloads/images/loading.gif)
+  ![](/home/nikola/projects/web/nikolajelic/loading.gif)
 
   
